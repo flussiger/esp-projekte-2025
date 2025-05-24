@@ -5,9 +5,9 @@
 // of movie, drink and popcorn you can get with your budget. Additionally, you are asked if you are a student or a 
 // member, in which case you a get 30% or 15% discount on the movie. 
 //
-// Tutor: Sebastian
+// Tutor: --
 //
-// Author: 12410223
+// Author: --
 //---------------------------------------------------------------------------------------------------------------------
 //
 
